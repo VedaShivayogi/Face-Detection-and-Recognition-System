@@ -19,7 +19,7 @@ This project detects human faces from images or live webcam video and recognizes
 - OpenCV
 - NumPy
 - Haar Cascade Classifier
-- LBPH Face Recognizer
+
 
 
 
